@@ -32,6 +32,7 @@ CSRF_TRUSTED_ORIGINS = [
     "http://localhost",
     "http://127.0.0.1:8000/",
     "https://kkek-041405-super-duper-chainsaw-g95xg4vwprgcv7gj-8000.preview.app.github.dev",
+    "https://kkek-041405-legendary-space-goldfish-44gqxjp9pqpcj7jr-8000.preview.app.github.dev",
 ]
 
 
